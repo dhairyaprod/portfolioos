@@ -1,0 +1,1 @@
+import{o}from"./index-1636caf8.js";function i(){return o("div",{class:"w-full h-full bg-zinc-800",children:o("iframe",{src:"https://github1s.com/shadowdevfr/shadowdevfr",scrolling:"no",height:"100%",width:"100%"})})}export{i as default};
